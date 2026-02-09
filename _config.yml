@@ -3,19 +3,6 @@ description: "Special Session at the 6th IEEE International Conference on ICT So
 url: "https://github.com/Giannilonix"
 baseurl: "/aimaxr-tr-icts4ehealth"   # or "" if this is your main username.github.io site
 
-# Choose ONE of the built-in GitHub Pages themes:
-#   jekyll-theme-minimal  (clean, simple)
-#   jekyll-theme-cayman   (colorful landing style)
-#   jekyll-theme-slate    (dark, technical look)
-theme: jekyll-theme-cayman  # you can change to jekyll-theme-cayman or others
-
-markdown: kramdown
-
-# Optional: navigation links (will work with many themes)
-# You can uncomment and adapt later if you add more pages.
-#nav_links:
-#  - name: "Home"
-#    url: "/"
-#  - name: "ICTS4eHealth 2026"
-#    url: "https://icts4ehealth.icar.cnr.it/"
-
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
