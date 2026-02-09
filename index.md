@@ -3,10 +3,6 @@ layout: default
 title: "AI-Based Motion Analysis and Extended Reality for Telemedicine and Rehabilitation (AIMAXR‑TR)"
 ---
 
-# AI-Based Motion Analysis and Extended Reality for Telemedicine and Rehabilitation (AIMAXR‑TR)
-
-## Special Session at IEEE ICTS4eHealth 2026
-
 This Special Session focuses on how **AI-based** motion analysis and extended reality (XR) technologies can transform telemedicine, neurorehabilitation, and remote clinical workflows.  
 It is part of the **6th IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2026)**, held in Algarve, Portugal, **June 23–26, 2026**, in conjunction with IEEE ISCC 2026.  
 For full conference information, please visit the main website:  
