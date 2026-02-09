@@ -1,0 +1,21 @@
+title: "AI-Based Motion Analysis and Extended Reality for Telemedicine and Rehabilitation (AIMAXR‑TR)"
+description: "Special Session at the 6th IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2026), Algarve, Portugal, June 23–26, 2026."
+url: "https://Giannilonix.github.io"
+baseurl: "/aimaxr-tr-icts4ehealth"   # or "" if this is your main username.github.io site
+
+# Choose ONE of the built-in GitHub Pages themes:
+#   jekyll-theme-minimal  (clean, simple)
+#   jekyll-theme-cayman   (colorful landing style)
+#   jekyll-theme-slate    (dark, technical look)
+theme: jekyll-theme-cayman  # you can change to jekyll-theme-cayman or others
+
+markdown: kramdown
+
+# Optional: navigation links (will work with many themes)
+# You can uncomment and adapt later if you add more pages.
+#nav_links:
+#  - name: "Home"
+#    url: "/"
+#  - name: "ICTS4eHealth 2026"
+#    url: "https://icts4ehealth.icar.cnr.it/"
+
