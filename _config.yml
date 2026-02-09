@@ -1,7 +1,8 @@
 title: "AI-Based Motion Analysis and Extended Reality for Telemedicine and Rehabilitation (AIMAXR‑TR)"
 description: "Special Session at the 6th IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2026), Algarve, Portugal, June 23–26, 2026."
-url: "https://github.com/Giannilonix"
-baseurl: "/aimaxr-tr-icts4ehealth"   # or "" if this is your main username.github.io site
+url: "https://Giannilonix.github.io"  # ← .github.io, non .com!
+baseurl: "/aimaxr-tr-icts4ehealth"    # Perfetto così per repo project
+
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
