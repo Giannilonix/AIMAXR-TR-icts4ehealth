@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Nasconde il sottotitolo e il pulsante View on GitHub */
+.page-header > .project-tagline {
+  display: none;
+}
+
+.page-header > a.btn {
+  display: none;
+}
+
