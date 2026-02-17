@@ -13,8 +13,7 @@ For full conference information, please visit the main website:
 
   <p>
     <a href="https://edas.info/N35031"
-       class="btn"
-       style="background-color: #28a745; border-color: #28a745;">
+       class="btn">
       Submit via EDAS
     </a>
   </p>
