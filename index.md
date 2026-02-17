@@ -11,9 +11,16 @@ For full conference information, please visit the main website:
 ---
 <div style="text-align: center;">
 
+ <p>
+    <span style="font-weight: bold; color: #28a745;">
+      SUBMIT
+    </span>
+  </p>
+
   <p>
     <a href="https://edas.info/N35031"
-       class="btn">
+       class="btn"
+       style="background-color: #28a745; border-color: #28a745;">
       Submit via EDAS
     </a>
   </p>
