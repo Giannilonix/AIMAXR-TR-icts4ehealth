@@ -7,7 +7,21 @@ This Special Session focuses on how **AI-based** motion analysis and extended re
 It is part of the **6th IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2026)**, held in Algarve, Portugal, **June 23–26, 2026**, in conjunction with IEEE ISCC 2026.  
 For full conference information, please visit the main website:  
 [https://icts4ehealth.icar.cnr.it/](https://icts4ehealth.icar.cnr.it/)
-[Submit your paper via EDAS](https://edas.info/N35031)
+
+---
+<p>
+  <span style="font-weight: bold; color: #28a745;">
+    SUBMIT
+  </span>
+</p>
+
+<p>
+  <a href="https://edas.info/N35031"
+     class="btn"
+     style="background-color: #28a745; border-color: #28a745;">
+    Submit via EDAS
+  </a>
+</p>
 
 ---
 
