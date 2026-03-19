@@ -64,8 +64,8 @@ Authors should select the Special Session **“AI-Based Motion Analysis and Exte
 
 **Important dates (aligned with ICTS4eHealth 2026):**
 
-- **Paper submission deadline:** March 15, 2026  
-- **Notification of acceptance:** March 31, 2026  
+- **Paper submission deadline:** March 31, 2026  (FIRM)
+- **Notification of acceptance:** April 20, 2026  
 - **Conference dates:** June 23–26, 2026 (Algarve, Portugal)
 
 For detailed author instructions, templates, and the submission system, please refer to the main ICTS4eHealth website:  
